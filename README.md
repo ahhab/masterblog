@@ -1,6 +1,6 @@
 # Flask CRUD Blog - Training Project "Masterblog"
 
-This project is a training exercise designed to demonstrate the fundamentals of building a web application with Python and the Flask micro-framework. It covers the core concepts of **CRUD** (Create, Read, Update, Delete) operations, rendering dynamic web pages using Jinja2 templates, and handling data storage with a simple JSON file.
+This project is a training exercise designed to demonstrate the fundamentals of building a web application with Python and the Flask micro-framework. It covers the core concepts of **CRUD** (Create, Read, Update, Delete) operations, rendering dynamic web pages using templates, and handling data storage with a simple JSON file.
 
 This is a great exercise for beginners to understand how a back-end server handles requests, manages data, and interacts with a front-end interface.
 
